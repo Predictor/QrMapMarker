@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.predictor.qrmap.MapEditorApplet
+Class-Path: QrMapMarker-1.0-SNAPSHOT.jar

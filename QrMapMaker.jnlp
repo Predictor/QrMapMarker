@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://predictor-asus.dyndns.org/applet/" href="QrMapMaker.jnlp">
+    <information>
+        <title>QrMapMaker</title>
+        <vendor>Predictor</vendor>
+    </information>
+	<security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.6+"
+            href="http://java.sun.com/products/autodl/j2se" />
+        <jar href="QrMapMarker-1.0-SNAPSHOT.jar" main="true" />
+
+    </resources>
+    <applet-desc
+		 documentBase="http://predictor-asus.dyndns.org/applet/"
+         name="QrMapMaker Applet"
+         main-class="com.predictor.qrmap.MapEditorApplet"
+         width="1024"
+         height="768">
+     </applet-desc>
+</jnlp> 

@@ -1,0 +1,2 @@
+QrMapMarker is a Java applet intended to upload building scheme to storage server, markup scheme with location markers, generate QR codes for location markers.
+Output QR codes could be recognized with NaviCode Android application https://github.com/Predictor/NaviCode
